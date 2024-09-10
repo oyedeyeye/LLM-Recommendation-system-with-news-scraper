@@ -62,4 +62,6 @@ You can create prompts using the `langchain.core.prompts chatPromptTemplate`
 ## Running the app
 Use the command below to run the app
 
-```python3 app.py```
+```
+python3 app.py
+```
